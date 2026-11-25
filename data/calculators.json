@@ -1,0 +1,117 @@
+[
+    {
+        "id": "calc_conversion",
+        "routeKey": "conversion-calculator",
+        "title": "Conversion Calculator",
+        "icon": "",
+        "shortDescription": "Convert between various units like length, volume, area, temperature, and more.",
+        "longDescription": "Comprehensive unit conversion tool for construction professionals."
+    },
+    {
+        "id": "calc_cost_est",
+        "routeKey": "construction-cost-estimation-and-budgetings",
+        "title": "Construction Cost Estimation",
+        "icon": "",
+        "shortDescription": "Estimate grey structure, finishing, and total project costs.",
+        "longDescription": "Detailed cost estimation and budgeting for construction projects."
+    },
+    {
+        "id": "calc_concrete",
+        "routeKey": "concrete-formwork-quantity-calculator",
+        "title": "Concrete & Formwork",
+        "icon": "",
+        "shortDescription": "Calculate concrete mix, lean concrete, foundation, columns, and more.",
+        "longDescription": "Precise concrete and formwork quantity calculations."
+    },
+    {
+        "id": "calc_block_plaster",
+        "routeKey": "block-masonry-plaster",
+        "title": "Block & Plaster",
+        "icon": "",
+        "shortDescription": "Estimate block masonry and plaster materials for walls and roofs.",
+        "longDescription": "Calculate block quantities, mortar requirements, and plaster materials for construction projects."
+    },
+    
+    {
+        "id": "calc_doors_windows",
+        "routeKey": "doors-windows-material-calculator",
+        "title": "Doors & Windows",
+        "icon": "",
+        "shortDescription": "Estimate materials for wood frames, door shutters, and aluminum windows.",
+        "longDescription": "Material estimation for doors and windows installation."
+    },
+    {
+        "id": "calc_marble_granite",
+        "routeKey": "marble-and-granite-calculators",
+        "title": "Marble & Granite",
+        "icon": "",
+        "shortDescription": "Calculate granite requirements for kitchen counters and stairs.",
+        "longDescription": "Accurate calculator for marble and granite works."
+    },
+    {
+        "id": "calc_earthwork",
+        "routeKey": "earth-work-calculator",
+        "title": "Earth Work",
+        "icon": "",
+        "shortDescription": "Estimation for excavation, backfill, compaction, and soil soiling.",
+        "longDescription": "Comprehensive earthwork calculations for site preparation."
+    },
+    
+    {
+        "id": "calc_driveway",
+        "routeKey": "driveway-pathway-calculators",
+        "title": "Driveway & Pathway",
+        "icon": "",
+        "shortDescription": "Estimate asphalt, pavers, and calculating requirements for driveways.",
+        "longDescription": "Calculators for driveway and pathway construction materials."
+    },
+    {
+        "id": "calc_flooring",
+        "routeKey": "flooring-grouting-estimation-calculator",
+        "title": "Flooring & Grouting",
+        "icon": "",
+        "shortDescription": "Estimate tiles, grout, and bond for flooring projects.",
+        "longDescription": "Precise estimation for flooring and grouting materials."
+    },
+    {
+        "id": "calc_treatment",
+        "routeKey": "Termite-treatment-and-Water-Proofing-Calculators",
+        "title": "Treatment & Protection",
+        "icon": "",
+        "shortDescription": "Termite treatment, bitumen coating, and waterproofing estimates.",
+        "longDescription": "Calculators for protective treatments and waterproofing."
+    },
+    {
+        "id": "calc_finishing",
+        "routeKey": "finishing-and-interior-estimator",
+        "title": "Finishing & Interior",
+        "icon": "",
+        "shortDescription": "Estimate paint, kitchen, wood polish, and interior finishes.",
+        "longDescription": "Detailed estimation for interior finishing works."
+    },
+    
+    {
+        "id": "calc_bar_bending",
+        "routeKey": "bar-bending-calculator",
+        "title": "Bar Bending",
+        "icon": "",
+        "shortDescription": "Calculate bar bending schedules for beams, footings, and foundations.",
+        "longDescription": "Advanced bar bending schedule calculations for reinforcement."
+    },
+    {
+        "id": "calc_mep",
+        "routeKey": "mep-calculator",
+        "title": "MEP Calculator",
+        "icon": "",
+        "shortDescription": "Mechanical, Electrical, and Plumbing calculations.",
+        "longDescription": "Comprehensive MEP calculation suite."
+    },
+    {
+        "id": "calc_pump",
+        "routeKey": "water-pump-selection-calculator",
+        "title": "Water Pump Selection",
+        "icon": "",
+        "shortDescription": "Select the right water pump based on your requirements.",
+        "longDescription": "Tools for selecting the appropriate water pump for your needs."
+    }
+]
